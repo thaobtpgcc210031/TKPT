@@ -106,7 +106,7 @@ if(isset($_GET['DatHang']) && isset($_GET['IDSP']))
 		?>
 	</body>
 	</html>
-	<!-- <script type="text/javascript">
+	<script type="text/javascript">
 		function XoaDonHang()
 		{
 			if(confirm("Bạn Muốn Xóa Món Hàng Này?"))
@@ -116,9 +116,9 @@ if(isset($_GET['DatHang']) && isset($_GET['IDSP']))
 			else 
 				return false;
 		}
-	</script> -->
+	</script>
 	<?php
-	/*if(isset($_GET['action']))
+	if(isset($_GET['action']))
 	{
 		if($_GET['action'] == 'xoa')
 		{
@@ -168,5 +168,4 @@ if(isset($_GET['DatHang']) && isset($_GET['IDSP']))
 			echo "<meta http-equiv = 'refresh' content = '0; URL=?ID=dangnhap'/>";
 		}
 	}
-	*/
 	?>
