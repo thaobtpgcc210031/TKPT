@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>LapTop</title>
+	<title>Computer</title>
 </head>
 <body>
 	<div class="Search">
