@@ -157,18 +157,7 @@
 										?>
 									</select>
 									<input name="txtSearch" id="txtSearch" class="input" placeholder="Nhập tên sản phẩm cần tìm">
-								<!-- 	<select name="slGiaTu" id="slGiaTu" class="input-select">
-										<option value='0'>Giá Từ</option>
-										<option value='2000000'>2.000.000</option>
-										<option value='5000000'>5.000.000</option>
-										<option value='10000000'>10.000.000</option>
-									</select>
-									<select name="slGiaDen" id="slGiaDen" class="input-select">
-										<option value='100000000'>Giá Đến</option>
-										<option value='5000000'>5.000.000</option>
-										<option value='10000000'>10.000.000</option>
-										<option value='200000000'>20.000.000</option>
-									</select> -->
+								
 									<input type="button" name="btnSearch" class="search-btn" value="Tìm" onclick="TimKiem();"/>
 
 								</form>
@@ -391,40 +380,7 @@
 			?>
 			<!-- NEWSLETTER -->
 		</div>
-		<!-- <div id="newsletter" class="section">
-			container
-			<div class="container">
-				row
-				<div class="row">
-					<div class="col-md-12">
-						<div class="newsletter">
-							<p>Sign Up for the <strong>NEWSLETTER</strong></p>
-							<form>
-								<input class="input" type="email" placeholder="Enter Your Email">
-								<button class="newsletter-btn"><i class="fa fa-envelope"></i> Subscribe</button>
-							</form>
-							<ul class="newsletter-follow">
-								<li>
-									<a href="#"><i class="fa fa-facebook"></i></a>
-								</li>
-								<li>
-									<a href="#"><i class="fa fa-twitter"></i></a>
-								</li>
-								<li>
-									<a href="#"><i class="fa fa-instagram"></i></a>
-								</li>
-								<li>
-									<a href="#"><i class="fa fa-pinterest"></i></a>
-								</li>
-							</ul>
-						</div>
-					</div>
-				</div>
-				/row
-			</div>
-			/container
-		</div> -->
-		<!-- /NEWSLETTER -->
+	
 
 		<!-- FOOTER -->
 		<footer id="footer">
